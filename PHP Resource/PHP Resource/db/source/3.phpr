@@ -1,0 +1,23 @@
+<?php
+
+	// This is an example as to how we would use echo 
+	//
+	// This script is a simple example made for PHP Resource
+	//
+	// Remove the // from the type of echo you are looking to use.
+
+
+
+##############################################################################################
+
+	// echo "This will be printed on any webpage like this";
+
+	echo "<html><b>You can also use html tags, javscript etc within an echo";
+
+##############################################################################################
+
+
+
+
+	//always make sure you close with the php tags
+?>
